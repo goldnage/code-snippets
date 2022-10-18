@@ -41,3 +41,4 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 Exercise done!
 
 ---
+Luke Cheong: DevOps concept is very positive towards customer satisfaction
